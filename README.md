@@ -54,7 +54,7 @@ O objetivo é destruir todos os blocos usando a bola, controlando a raquete para
 1. Clone ou baixe este repositório.
 
 ```bash
-  git clone https://github.com/alinetakai/atari-breakout-v1
+  git clone https://github.com/alinetakai/atari-breakout-v3
 ```
 2. Abra o arquivo `index.html` em seu navegador.
 3. Use o **mouse** para controlar a raquete.
